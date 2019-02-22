@@ -1,0 +1,2 @@
+[all]
+host1 	ansible_connection=ssh 	ansible_user=user1  ansible_sudo_pass=pass1
